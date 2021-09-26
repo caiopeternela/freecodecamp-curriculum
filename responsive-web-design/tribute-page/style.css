@@ -17,21 +17,6 @@ h1 {
 	margin-bottom: 0;
 }
 
-@media (max-width: 460px) {
-	h1 {
-		font-size: 3.5rem;
-		line-height: 1.2;
-	}
-
-	#main {
-		margin: 0;
-	}
-
-	#img-caption {
-		font-size: 1.4em;
-	}
-}
-
 h3 {
 	font-size: 2rem;
 }
@@ -85,4 +70,19 @@ cite {
 	margin: 0 auto;
 	text-align: center;
 	justify-content: center;
+}
+
+@media (max-width: 460px) {
+	h1 {
+		font-size: 3.5rem;
+		line-height: 1.2;
+	}
+
+	#main {
+		margin: 0;
+	}
+
+	#img-caption {
+		font-size: 1.4em;
+	}
 }
