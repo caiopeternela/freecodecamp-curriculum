@@ -1,5 +1,5 @@
 # freeCodeCamp Curriculum
-I created this repository to store all the projects I completed while doing the FreeCodeCamp curriculum 🤙
+I created this repository to store all the projects I completed while doing the freeCodeCamp curriculum 🤙
 
 ## Responsive Web Design
 1. Tribute Page
